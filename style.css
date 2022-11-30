@@ -1,0 +1,15 @@
+table{
+    border-style: solid;
+}
+td{
+    border-style: solid;
+}
+th{
+    border-style: solid;
+    border-color: brown;
+}
+.colTit{
+    border-style: solid;
+    border-color: coral;
+    padding:5pt;
+}
